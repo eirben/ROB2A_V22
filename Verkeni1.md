@@ -1,6 +1,6 @@
 #  Verkefni 1
 Færslur og snúningar,  vægi 20% af loka einkunn
--
+
 ## 1.hluti suiside 20 stig af 100 
 Hér er það tíminn sem ræður færslunni, nýtið ykkur  Sample program- basic movement- Moving forward
 Kóðið robot þannig að hann keyri 0,5m fram og til baka síðan 1m fram og til baka o.s.fr þar til að komið er að 2,5m.
@@ -8,14 +8,14 @@ Gerið sauðakóða og flæðirit áður en þið forritið og skilið í Innu M
 neðan setjið gildi sem ekki breytast í t.d const int.  Hafið föll og breytur með lýsandi heiti og á ensku.
 Notið for-lúppu eða while búið til fall void drive(int drivetime Gerið flæðiritið í http://draw.io  þegar búið farið í  
 File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
--
+
 ##  2.hluti 30 stig af 100
 Suiside sama verkefni og 1.hluti nema með með shaft encoder  Hér er það snúningar á hjóli sem ræður færslunni
 Nýtið ykkur Sample program- Shaft encoder- Moving straight
 Notið while lúppu búið til fall void drive(int dist){}
 Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þið forritið og skilið í Innu
 Athugið að þið þurfið að reikna ummál hjóls og sýna í commenti.  Gerið flæðiritið í http://draw.io þegar búið farið í  File-export as - image. Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
--
+
 ##  3. Hluti 50 stig af 100
 Forritið robot þannig að hann leysi þraut sem er á mynd fyrir neðan.
 Notið shaft-encoder, munið hér þurfið þið að kenna robot að snúa 90° þ.e búa til fall void turn(int deg){} og void drive(int dist){}
@@ -25,4 +25,4 @@ Gerið flæðiritið í [Draw.io](http://draw.io) þegar búið farið í  File-
 Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
 
 ![Mynd af verkefni 2 hluti c](/verkefni2/verkefni2.png).
--
+
