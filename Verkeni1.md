@@ -24,5 +24,5 @@ Gerið sauðakóða sem textaskjal með C kóðanum og flæðirit áður en þi�
 Gerið flæðiritið í [Draw.io](http://draw.io) þegar búið farið í  File-export as - image
 Skilið vido af vélmenni leysa allar þrautinar setjið á YouTube og eða geymið í ykkar repository og skilið slóð á videóið í Innu.
 
-![Mynd af verkefni 2 hluti c](/rob2a/verkefni2/verkefni2.png).
+![Mynd af verkefni1 3 hluti c](https://github.com/eirben/rob2a/blob/master/verkefni2/verkefni2.png).
 
